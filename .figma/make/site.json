@@ -1,0 +1,10 @@
+{
+  "description": "Practice rapid numerical reasoning by solving 60 progressively challenging equations with missing digits under a 5-minute countdown for skill improvement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
